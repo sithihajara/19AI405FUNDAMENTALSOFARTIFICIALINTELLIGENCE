@@ -1,4 +1,4 @@
-![277147603-6e6d123c-60ae-4f9c-a27c-c4fc7e57d57c](https://github.com/sithihajara/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94219582/2f35ae7d-dcf9-4c39-8a7b-a9c54c163dd3)# 19AI405 FUNDAMENTALS OF ARTIFICIALINTELLIGENCE 
+# 19AI405 FUNDAMENTALS OF ARTIFICIALINTELLIGENCE 
 # Laboratory Experiments
 ## ExpNo 1 : Implement Depth First Search Traversal of a Graph
 ### Name: Saravanan N
